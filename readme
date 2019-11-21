@@ -1,0 +1,10 @@
+# Ad Bot for Telegram
+
+Rename config.js.example and add your own values
+
+Update ad.json with your own ads.
+
+Then run:
+
+    npm install
+    npm start
